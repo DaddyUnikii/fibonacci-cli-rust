@@ -12,7 +12,10 @@ cargo run 10
 ```
 
 fibonacci-cli-rust/
-├── Cargo.toml        # Konfigurasi Rust
+├── Cargo.toml        
+# Konfigurasi Rust
 ├── src/
-│   └── main.rs       # Logika Fibonacci
-└── README.md         # Dokumentasi
+│   └── main.rs      
+# Logika Fibonacci
+└── README.md         
+# Dokumentasi
